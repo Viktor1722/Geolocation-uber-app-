@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Uber-SwiftUI
+
+  Created by Viktor on 27/04/2023.
+  
+*/
+
+
+"TextCurentLocation" = "Current Location";
+"TextDestination" = "Destination Location";
+"TextRides" = "Suggested Rides";
+"TextConfirm" = "Confirm Ride";
+"TextWhere" = "Where to?";
